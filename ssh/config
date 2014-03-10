@@ -1,0 +1,4 @@
+IdentityFile ~/.ssh/<key>_rsa
+Compression yes
+VisualHostKey yes
+TCPKeepAlive yes
